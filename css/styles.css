@@ -100,7 +100,7 @@ header {
 }
 
 @media (max-width: 775px) {
-    .box-push {
+    .card-push {
         transform: none;
     }
         
